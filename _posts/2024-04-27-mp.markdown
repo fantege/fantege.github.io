@@ -1,0 +1,14 @@
+---
+layout:       post
+title:        "Hello!"
+author:       "Fantege"
+header_style: text
+catalog:      true
+tags:
+      - Web
+      -JavaScript
+---
+
+Hello,你们好，欢迎来到我的博客（仿照github上的黄玄博客项目）。
+
+今天我和大家见面咯！
